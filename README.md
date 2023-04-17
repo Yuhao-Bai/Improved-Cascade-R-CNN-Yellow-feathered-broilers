@@ -7,6 +7,11 @@ a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http
 
 ![demo image](demo/coco_test_12510.jpg)
 
+
+## Data preparation
+
+The yellow-feathered-broilers datasets can be download from https://drive.google.com/file/d/1rJgx8H85JUOdHUtU8R2OU0zsWcvIY5YB/view?usp=sharing
+
 ### Major features
 
 - **Modular Design**
